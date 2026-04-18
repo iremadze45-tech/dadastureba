@@ -8,3 +8,9 @@
     border: none;
     width: max-content;
 }
+
+.box{
+    background-color: red;
+    color: white;
+    margin: 10px;
+}
